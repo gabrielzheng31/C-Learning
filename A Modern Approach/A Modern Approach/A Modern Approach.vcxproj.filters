@@ -22,5 +22,24 @@
     <Filter Include="Source Files\ch08">
       <UniqueIdentifier>{728b1746-033f-40b5-8b0f-ab806ae3c339}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ch09\Exercises">
+      <UniqueIdentifier>{885f1f6b-09ab-4e88-bffe-a668e311a64c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ch09\Projects">
+      <UniqueIdentifier>{af41a6e3-08e0-4c8b-bf18-d2881cd53d95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="01.txt">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="02.cpp">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="03.cpp">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
