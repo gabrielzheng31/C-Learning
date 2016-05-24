@@ -1,3 +1,8 @@
 The program is about to change the order of a and b,
 
 so the is "i = b, j = a\n"
+
+****Wrong answer!!!!!
+
+because the parametres did not transmit back to the main function,
+the value of i and j remains the same.
