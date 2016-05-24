@@ -1,0 +1,5 @@
+(a) is valid
+(b) is valid
+(c) is valid
+
+I think every one is valid.

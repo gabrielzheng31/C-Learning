@@ -143,10 +143,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="01.txt" />
+    <Text Include="07.txt" />
+    <Text Include="08.txt" />
+    <Text Include="09.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02.cpp" />
     <ClCompile Include="03.cpp" />
+    <ClCompile Include="04.cpp" />
+    <ClCompile Include="05.cpp" />
+    <ClCompile Include="06.cpp" />
+    <ClCompile Include="10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -33,12 +33,33 @@
     <Text Include="01.txt">
       <Filter>Source Files\ch09\Exercises</Filter>
     </Text>
+    <Text Include="07.txt">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </Text>
+    <Text Include="08.txt">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </Text>
+    <Text Include="09.txt">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02.cpp">
       <Filter>Source Files\ch09\Exercises</Filter>
     </ClCompile>
     <ClCompile Include="03.cpp">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="04.cpp">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="05.cpp">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="06.cpp">
+      <Filter>Source Files\ch09\Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="10.cpp">
       <Filter>Source Files\ch09\Exercises</Filter>
     </ClCompile>
   </ItemGroup>
